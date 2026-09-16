@@ -23,4 +23,4 @@ public class Profissional : Entity
     }
 
     private Profissional() { }
-}
+} 
